@@ -38,4 +38,9 @@ Despite their potential, AI agents still face several challenges:
 - **Bias:** Addressing biases in training data that can lead to unfair outcomes.
 - **Scalability:** Developing agents that can scale efficiently with increased demand.
 - **Interoperability:** Ensuring AI agents can seamlessly integrate with diverse systems and platforms.
+
+### My assignment Report
+
+-https://docs.google.com/document/d/1Ncz06jBNB-xcDr2NQBZbUaztmFOU3jD22-mCt4wFX0I/edit?usp=sharing
+
  
